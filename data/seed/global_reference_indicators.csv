@@ -1,0 +1,19 @@
+indicator,value,unit,year,source_name,source_url,analytic_use
+People experiencing chronic hunger / undernourishment,673,million people,2024,SOFI 2025 / FAO-WFP-UNICEF-WHO-IFAD,https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en,Global hunger baseline
+Global hunger estimate lower bound,638,million people,2024,SOFI 2025 / UNICEF Data,https://data.unicef.org/resources/sofi-2025/,Uncertainty range
+Global hunger estimate upper bound,720,million people,2024,SOFI 2025 / UNICEF Data,https://data.unicef.org/resources/sofi-2025/,Uncertainty range
+Moderate or severe food insecurity,2300,million people,2024,SOFI 2025 / UNICEF Data,https://data.unicef.org/resources/sofi-2025/,Broader household food insecurity
+Unable to afford a healthy diet,2600,million people,2024,SOFI 2025 / UNICEF Data,https://data.unicef.org/resources/sofi-2025/,Affordability/access gap
+Acute food insecurity in food-crisis contexts,295.3,million people,2024,GRFC 2025 / WFP,https://www.wfp.org/publications/global-report-food-crises-grfc,Emergency food security baseline
+Countries/territories covered by GRFC acute food insecurity,53,count,2024,GRFC 2025 / WFP,https://www.wfp.org/publications/global-report-food-crises-grfc,Coverage check
+Increase in acute food insecurity vs 2023,13.7,million people,2024,GRFC 2025 / WFP,https://www.wfp.org/publications/global-report-food-crises-grfc,Trend signal
+Share of assessed population in high acute food insecurity,22.6,percent,2024,GRFC 2025 / UNICEF Press Release,https://www.unicef.org/press-releases/acute-food-insecurity-and-malnutrition-rise-sixth-consecutive-year-worlds-most,Crisis prevalence indicator
+Children under 5 stunted,150.2,million children,2024,UNICEF-WHO-World Bank JME 2025 / WHO,https://www.who.int/data/gho/data/themes/topics/joint-child-malnutrition-estimates-unicef-who-wb,Chronic child malnutrition baseline
+Children under 5 wasted,42.8,million children,2024,UNICEF-WHO-World Bank JME 2025 / WHO,https://www.who.int/data/gho/data/themes/topics/joint-child-malnutrition-estimates-unicef-who-wb,Acute child malnutrition baseline
+Children under 5 overweight,35.5,million children,2024,UNICEF-WHO-World Bank JME 2025 / WHO,https://www.who.int/data/gho/data/themes/topics/joint-child-malnutrition-estimates-unicef-who-wb,Double burden nutrition context
+Children acutely malnourished in food-crisis contexts,35.5,million children,2025,GRFC 2025 / WFP,https://www.wfp.org/news/acute-food-insecurity-and-malnutrition-remain-alarmingly-high-crises-deepen-un-eu-and-partners,Emergency nutrition burden
+Children severely acutely malnourished in food-crisis contexts,10,million children,2025,GRFC 2025 / WFP,https://www.wfp.org/news/acute-food-insecurity-and-malnutrition-remain-alarmingly-high-crises-deepen-un-eu-and-partners,Severe acute malnutrition emergency burden
+Under-5 deaths,4.9,million deaths,2024,WHO / UN IGME,https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years,Child mortality context
+Neonatal deaths,2.3,million deaths,2024,WHO / UN IGME,https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years,Child mortality context
+Under-5 mortality rate,37.4,deaths per 1000 live births,2024,WHO / UN IGME,https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years,Comparability metric
+Under-5 deaths linked to undernutrition,45,percent approx,2024,UNICEF Nutrition,https://data.unicef.org/topic/nutrition/child-nutrition/,Risk interpretation

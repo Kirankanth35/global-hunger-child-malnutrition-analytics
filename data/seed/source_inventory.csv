@@ -1,0 +1,13 @@
+source_name,source_type,coverage,source_url,why_used,update_frequency
+SOFI 2025,UN annual report,Global hunger food insecurity healthy diet affordability,https://data.unicef.org/resources/sofi-2025/,Best global baseline for chronic hunger and food insecurity,Annual
+Global Report on Food Crises 2025,Consensus humanitarian report,Acute food insecurity malnutrition crises,https://www.wfp.org/publications/global-report-food-crises-grfc,Reference document for emergency acute food insecurity,Annual with updates
+GRFC 2025 September Update,Consensus humanitarian update,2025 crisis dynamics and Phase 5 countries,https://knowledge4policy.ec.europa.eu/publication/global-report-food-crises-2025-september-update_en,Latest published update for deteriorating crises,Periodic update
+IPC/CH Dashboard,IPC/CH official dashboard,Phase 3+ acute food insecurity classifications,https://www.ipcinfo.org/ipcinfo-website/ipc-dashboard/en/,Best source for IPC/CH severity classifications,Rolling
+UNICEF-WHO-World Bank JME 2025,Inter-agency malnutrition estimates,Child stunting wasting overweight,https://www.who.int/data/gho/data/themes/topics/joint-child-malnutrition-estimates-unicef-who-wb,Best global/regional child malnutrition estimates,Every other year/regular updates
+WHO/UN IGME Child Mortality 2026,UN mortality estimates,Under-5 deaths and mortality rates,https://www.who.int/news-room/fact-sheets/detail/child-mortality-under-5-years,Best global child mortality context,Annual
+UNICEF Child Nutrition,UNICEF data portal,Undernutrition link to under-5 deaths,https://data.unicef.org/topic/nutrition/child-nutrition/,Explains why malnutrition is an indirect mortality driver,Regular updates
+HDX GRFC Dataset,Machine-readable humanitarian dataset,GRFC data downloads,https://data.humdata.org/dataset/fsin-grfc,Recommended production input for official country-level analysis,Periodic
+World Bank Data360 GRFC,Machine-readable GRFC subset,Selected GRFC indicators,https://data360.worldbank.org/en/dataset/FSIN_GRFC,Alternative data access point,Periodic
+OCHA Financial Tracking Service,Humanitarian funding data,Funding requirements and funding received,https://fts.unocha.org/,Needed for funding gap analysis,Rolling
+ACLED,Conflict event data,Conflict events fatalities violence patterns,https://acleddata.com/,Needed for conflict driver modeling,Rolling
+World Bank WDI,Development indicators,Poverty inflation GDP health indicators,https://databank.worldbank.org/source/world-development-indicators,Needed for socioeconomic context,Regular updates

@@ -1,0 +1,8 @@
+category,check_name,status,score,detail,weighted_score
+Schema,Required country columns present,PASS,100.0,All required columns present.,100.0
+Schema,Required global indicator columns present,PASS,100.0,All required global columns present.,100.0
+Uniqueness,No duplicate country-year rows,PASS,100.0,Duplicate country-year rows: 0,100.0
+Completeness,Critical numeric fields complete,PASS,100.0,Numeric completeness: 100.0%,100.0
+Validity,Percentages and 1-10 scores in valid ranges,PASS,100.0,Out-of-range cells: 0,100.0
+Traceability,Source URLs available,PASS,100.0,Rows missing source URLs: 0,100.0
+Reliability,High/Medium-High confidence coverage,PASS,80.0,High/Medium-High share: 80.0%,80.0
