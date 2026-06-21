@@ -63,15 +63,24 @@ After running the pipeline, these are created:
 
 ### PNG charts
 
-1. `01_global_kpi_snapshot.png` — Global hunger and malnutrition KPI cards
-2. `02_top_acute_food_insecurity_countries.png` — Countries by acute food insecurity burden
-3. `03_child_hunger_risk_score_ranked.png` — Ranked risk score chart
-4. `04_driver_heatmap.png` — Conflict, price, climate, displacement, access, funding drivers
-5. `05_risk_vs_burden_scatter.png` — Severity vs scale analysis
-6. `06_regional_burden.png` — Regional crisis burden
-7. `07_intervention_strategy_mix.png` — Recommended intervention portfolio
-8. `08_data_quality_scorecard.png` — Data foundation quality score
-9. `09_pipeline_architecture.png` — Data pipeline architecture
+1. <img width="3352" height="1863" alt="01_global_kpi_snapshot" src="https://github.com/user-attachments/assets/a8d7f81b-ca6b-4341-96a5-582bad7da0f2" />
+
+2. <img width="3012" height="1845" alt="02_top_acute_food_insecurity_countries" src="https://github.com/user-attachments/assets/49851ad4-ae07-4a57-a94e-475780b90944" />
+
+3. <img width="3017" height="1928" alt="03_child_hunger_risk_score_ranked" src="https://github.com/user-attachments/assets/37a6bc89-d2c4-4a23-a4b6-cefcfa96b9fd" />
+
+4. <img width="3094" height="1587" alt="04_driver_heatmap" src="https://github.com/user-attachments/assets/d73ae43b-11c3-456f-b81e-cc33495cd2ae" />
+
+5. <img width="2903" height="1656" alt="05_risk_vs_burden_scatter" src="https://github.com/user-attachments/assets/0ad9f0d7-5591-4a77-b847-1a7d373260b4" />
+
+6. <img width="2735" height="1420" alt="06_regional_burden" src="https://github.com/user-attachments/assets/a3e3b2aa-ac94-4a80-9700-0841c582cf59" />
+
+7. <img width="3700" height="1589" alt="07_intervention_strategy_mix" src="https://github.com/user-attachments/assets/edf72314-934f-4d80-969a-0c8b28817aea" />
+
+8. <img width="2367" height="1474" alt="08_data_quality_scorecard" src="https://github.com/user-attachments/assets/ba40ec62-b011-4c55-8e49-e681f3045ffb" />
+
+9. <img width="2771" height="1660" alt="09_pipeline_architecture" src="https://github.com/user-attachments/assets/a76f1e15-10ae-4e67-ae3a-05f51773db1d" />
+
 
 ### Spreadsheet dashboard
 
